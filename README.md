@@ -1,2 +1,28 @@
-# CCTV-Detection-ML
-CCTV Detection System using Machine Learning and Computer Vision to identify objects/persons from video footage in real-time using OpenCV and TensorFlow.
+# 📹 CCTV Detection using Machine Learning
+
+## 🚀 Project Overview
+This project detects objects from CCTV footage using deep learning.
+
+## 🧠 Technologies Used
+- Python
+- OpenCV
+- TensorFlow
+- NumPy
+
+## 📂 Features
+- Real-time detection
+- Image/video processing
+- Model training
+
+## ▶️ How to Run
+1. Install dependencies:
+   pip install -r requirements.txt
+
+2. Run notebook:
+   Open CCTV_Detection.ipynb in Jupyter/Colab
+
+## 📸 Output
+
+
+## 🔗 Dataset
+(Add dataset link if any)
