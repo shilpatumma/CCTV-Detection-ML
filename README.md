@@ -22,7 +22,4 @@ This project detects objects from CCTV footage using deep learning.
    Open CCTV_Detection.ipynb in Jupyter/Colab
 
 ## 📸 Output
-
-
-## 🔗 Dataset
-(Add dataset link if any)
+![CCTV Detection Output](Camera_detection.png)
