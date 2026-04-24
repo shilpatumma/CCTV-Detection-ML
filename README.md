@@ -60,6 +60,13 @@ The system follows a step-by-step pipeline:
 
 ---
 
+## 🤖 Model Used
+- DeepFace (Face Recognition Framework)
+- Pre-trained CNN model (VGG-Face)
+- Face verification using deep learning embeddings
+  
+--- 
+
 ## ✨ Key Features
 
 * 🎥 Real-time video processing
